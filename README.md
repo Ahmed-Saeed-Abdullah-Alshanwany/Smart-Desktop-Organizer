@@ -25,7 +25,8 @@ An automated Python background service that monitors your Downloads directory in
 2. **Install the required dependencies:**
 ```bash
 pip install watchdog plyer
-
+```
 3. **Run the script:**
 ```bash
 python organizer.py
+```
