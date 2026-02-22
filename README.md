@@ -21,3 +21,11 @@ An automated Python background service that monitors your Downloads directory in
    git clone [https://github.com/Ahmed-Saeed-Abdullah-Alshanwany/Smart-Desktop-Organizer.git](https://github.com/Ahmed-Saeed-Abdullah-Alshanwany/Smart-Desktop-Organizer.git)
 
    cd Smart-Desktop-Organizer
+
+2. **Install the required dependencies:**
+```bash
+pip install watchdog plyer
+
+3. **Run the script:**
+```bash
+python organizer.py
