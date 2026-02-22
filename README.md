@@ -18,5 +18,6 @@ An automated Python background service that monitors your Downloads directory in
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Smart-Desktop-Organizer.git](https://github.com/YOUR_USERNAME/Smart-Desktop-Organizer.git)
+   git clone [https://github.com/Ahmed-Saeed-Abdullah-Alshanwany/Smart-Desktop-Organizer.git](https://github.com/Ahmed-Saeed-Abdullah-Alshanwany/Smart-Desktop-Organizer.git)
+
    cd Smart-Desktop-Organizer
