@@ -10,7 +10,7 @@ An automated Python background service that monitors your Downloads directory in
 
 ## 📸 Screenshots
 <div align="center">
-  <img src="1.png" alt="Files Organized" width="400">
+  <img src="3.png" alt="Files Organized" width="400">
   <img src="4.png" alt="Desktop Notification" width="400">
 </div>
 
