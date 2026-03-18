@@ -8,6 +8,12 @@ An automated Python background service that monitors your Downloads directory in
 - **Desktop Notifications:** Alerts the user with a system notification using `plyer` upon a successful file transfer.
 - **Cross-Platform:** Dynamically locates the Downloads folder, making it compatible with Windows, macOS, and Linux.
 
+## 📸 Screenshots
+<div align="center">
+  <img src="image (1).png" alt="Files Organized" width="400">
+  <img src="image (4).png" alt="Desktop Notification" width="400">
+</div>
+
 ## 🛠️ Technologies Used
 - **Python 3.x**
 - `watchdog` (File system events monitoring)
